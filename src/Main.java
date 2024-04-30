@@ -3,7 +3,7 @@
 public class Main {
         public static void main(String[] args) {
                 int score = 100; // счет клиента
-                int deposit = 300; // пополнение
+                int deposit = 3000; // пополнение
 
                 int bonus;
 
